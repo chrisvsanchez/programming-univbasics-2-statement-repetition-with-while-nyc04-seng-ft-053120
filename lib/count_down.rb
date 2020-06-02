@@ -2,6 +2,6 @@
 
 count = 10
 while count < 10 do
-  put "#{count}"
+  puts "#{count}"
   count -= 1
 end
